@@ -1,0 +1,12 @@
+D:\Projetos\PdfUtility\src\PdfUtility\bin\Release\net8.0\PdfUtility.deps.json
+D:\Projetos\PdfUtility\src\PdfUtility\bin\Release\net8.0\PdfUtility.dll
+D:\Projetos\PdfUtility\src\PdfUtility\bin\Release\net8.0\PdfUtility.pdb
+D:\Projetos\PdfUtility\src\PdfUtility\obj\Release\net8.0\PdfUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\PdfUtility\src\PdfUtility\obj\Release\net8.0\PdfUtility.AssemblyInfoInputs.cache
+D:\Projetos\PdfUtility\src\PdfUtility\obj\Release\net8.0\PdfUtility.AssemblyInfo.cs
+D:\Projetos\PdfUtility\src\PdfUtility\obj\Release\net8.0\PdfUtility.csproj.CoreCompileInputs.cache
+D:\Projetos\PdfUtility\src\PdfUtility\obj\Release\net8.0\PdfUtility.sourcelink.json
+D:\Projetos\PdfUtility\src\PdfUtility\obj\Release\net8.0\PdfUtility.dll
+D:\Projetos\PdfUtility\src\PdfUtility\obj\Release\net8.0\refint\PdfUtility.dll
+D:\Projetos\PdfUtility\src\PdfUtility\obj\Release\net8.0\PdfUtility.pdb
+D:\Projetos\PdfUtility\src\PdfUtility\obj\Release\net8.0\ref\PdfUtility.dll
